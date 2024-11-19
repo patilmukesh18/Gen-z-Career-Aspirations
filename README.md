@@ -59,7 +59,6 @@ While this project does not involve predictive modeling, the performance is eval
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-repo/genz-career-aspirations.git
-   cd genz-career-aspirations
+   git clone git@github.com:patilmukesh18/Gen-z-Career-Aspirations.git
 
 <img src="https://github.com/patilmukesh18/Gen-z-Career-Aspirations/blob/main/Screenshot%202024-03-12%20154331.png">
